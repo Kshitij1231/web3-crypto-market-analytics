@@ -1,0 +1,45 @@
+{
+  "name": "Web3 Dark Neon",
+  "dataColors": [
+    "#F3BA2F",
+    "#F7931A",
+    "#7C8CFF",
+    "#19E3A0",
+    "#3FC1F0",
+    "#FF5C7A",
+    "#B58CFF",
+    "#8A94AD"
+  ],
+  "background": "#121A2E",
+  "foreground": "#E6EAF2",
+  "tableAccent": "#3FC1F0",
+  "good": "#19E3A0",
+  "neutral": "#F3BA2F",
+  "bad": "#FF5C7A",
+  "maximum": "#19E3A0",
+  "center": "#F3BA2F",
+  "minimum": "#FF5C7A",
+  "null": "#8A94AD",
+  "textClasses": {
+    "callout": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#E6EAF2"
+    },
+    "title": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#E6EAF2"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#E6EAF2"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#8A94AD"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+symbol,ticker,first_candle_utc,last_candle_utc,rows_raw,null_numeric_cells,duplicate_timestamps,missing_hourly_candles_inside_range,zero_volume_hours,invalid_ohlc_rows,outlier_hours_flagged_not_removed,partial_day_candles_excluded_from_daily,rows_hourly_final,rows_daily_final
+BTCUSDT,BTC,2023-11-01 00:00:00+00:00,2026-10-31 00:00:00+00:00,26281,0,0,0,0,0,86,1,26281,1095
+SOLUSDT,SOL,2023-11-01 00:00:00+00:00,2026-10-31 00:00:00+00:00,26281,0,0,0,0,0,70,1,26281,1095
+BNBUSDT,BNB,2023-11-01 00:00:00+00:00,2026-10-31 00:00:00+00:00,26281,0,0,0,0,0,104,1,26281,1095
+XRPUSDT,XRP,2023-11-01 00:00:00+00:00,2026-10-31 00:00:00+00:00,26281,0,0,0,0,0,117,1,26281,1095
+ETHUSDT,ETH,2023-11-01 00:00:00+00:00,2026-10-31 00:00:00+00:00,26281,0,0,0,0,0,93,1,26281,1095

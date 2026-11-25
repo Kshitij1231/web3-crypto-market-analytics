@@ -1,0 +1,6 @@
+symbol,ticker,coin_name,brand_color,sort_order
+BTCUSDT,BTC,Bitcoin,#F7931A,1
+ETHUSDT,ETH,Ethereum,#7C8CFF,2
+SOLUSDT,SOL,Solana,#19E3A0,3
+BNBUSDT,BNB,BNB,#F3BA2F,4
+XRPUSDT,XRP,XRP,#3FC1F0,5
