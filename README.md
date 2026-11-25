@@ -1,4 +1,4 @@
-# Web3 & Cryptocurrency Market Intelligence (Power BI)
+# # Capstone: Web3 & Cryptocurrency Market Intelligence and Analytics (Power BI)
 
 Interactive two-page Power BI dashboard on **3 years of hourly Binance spot data** for BTC, ETH, SOL, BNB and XRP (1 Nov 2023 to 30 Oct 2026).
 
